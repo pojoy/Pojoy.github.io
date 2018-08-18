@@ -1,4 +1,6 @@
-a:link{color: #000000}
+a:link{color: #cccccc}
 a:hover{color: #aaaaaa}
-a:visited{color: #ffffff}
+a:visited{color: #1b1b1b}
 a:active{color: #ff0000}
+
+body{background-color: #000000}
